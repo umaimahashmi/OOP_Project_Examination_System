@@ -1,0 +1,50 @@
+Q: What is encapsulation in OOP?
+a) A process of hiding the internal implementation details of an object
+b) A technique to prevent data modification
+c) A method of achieving inheritance
+d) A way to create objects from classes
+Q: What is inheritance in OOP?
+a) The ability of an object to take on many forms
+b) The process of creating multiple instances of a class
+c) The mechanism to define a new class based on an existing class
+d) The way to represent the relationship between objects and classes 
+Q: What is polymorphism in OOP?
+a) The process of creating objects from classes
+b) The ability of an object to take on many forms
+c) The technique to prevent data modification
+d) The mechanism to define a new class based on an existing class
+Q: What is the purpose of an abstract class in OOP?
+a) To create objects directly
+b) To define a blueprint for other classes to inherit from
+c) To prevent inheritance from a class
+d) To hide the internal implementation details of an object
+Q: What is the role of an interface in OOP?
+a) To define a blueprint for other classes to inherit from
+b) To create objects directly
+c) To prevent inheritance from a class
+d) To define a relationship between objects and classes
+Q: The object-oriented programming (OOP) paradigm emphasizes the use of objects to represent and manipulate data and behavior.
+a) True
+b) False
+c) 
+d) 
+Q: Encapsulation is one of the four fundamental principles of OOP and refers to the bundling of data and methods within a single unit, typically a class.
+a) True
+b) False
+c) 
+d) 
+Q: Inheritance is a mechanism in OOP that allows a class to inherit properties and methods from another class, enabling code reuse and creating a hierarchical relationship between classes.
+a) True
+b) False
+c) 
+d) 
+Q: Polymorphism is the ability of an object to take on different forms or exhibit different behaviors depending on the context in which it is used.
+a) True
+b) False
+c) 
+d) 
+Q: Abstraction is the process of hiding the internal implementation details of an object and providing only the essential information.
+a) True
+b) False
+c) 
+d) 

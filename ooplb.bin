@@ -1,0 +1,75 @@
+Q: Which OOP concept focuses on bundling data and methods into a single unit?
+a) Inheritance
+b) Encapsulation
+c) Polymorphism
+d) Abstraction
+Q: What is the process of creating a new object based on an existing class called?
+a) Inheritance
+b) Polymorphism
+c) Abstraction
+d) Instantiation
+Q: Which OOP principle allows a class to inherit properties and methods from another class?
+a) Inheritance
+b) Encapsulation
+c) Polymorphism
+d) Abstraction
+Q: What is the term used to describe creating multiple instances of a class?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Object-oriented programming
+Q: Which OOP concept allows an object to exhibit different behaviors based on its data type?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction
+Q: What is the purpose of an interface in OOP?
+a) To provide implementation details for a class
+b) To define a blueprint for other classes to follow
+c) To store and retrieve data in memory
+d) To create objects directly
+Q: Which OOP principle focuses on hiding the internal implementation details of an object?
+a) Inheritance
+b) Abstraction
+c) Encapsulation
+d) Polymorphism
+Q: What is the term used to describe defining a new class based on an existing class?
+a) Instantiation
+b) Polymorphism
+c) Abstraction
+d) Inheritance
+Q: Which OOP concept emphasizes the essential characteristics of an object, while hiding unnecessary details?
+a) Inheritance
+b) Encapsulation
+c) Abstraction
+d) Polymorphism
+Q: What is the process of using a class blueprint to create objects called?
+a) Inheritance
+b) Polymorphism
+c) Encapsulation
+d) Instantiation
+Q: OOP allows for code reusability and modularity.
+a) True
+b) False
+c)
+d)
+Q: Inheritance is a fundamental principle of OOP that enables the creation of hierarchical relationships between classes.
+a) True
+b) False
+c)
+d)
+Q: Encapsulation refers to the ability of an object to take on multiple forms.
+a) True
+b) False
+c)
+d)
+Q: Polymorphism allows objects of different classes to be treated as objects of the same base class.
+a) True
+b) False
+c)
+d)
+Q: Abstraction focuses on hiding the internal implementation details of an object.
+a) True
+b) False
+c)
+d)

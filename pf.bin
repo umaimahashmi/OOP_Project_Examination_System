@@ -1,0 +1,70 @@
+Q. int main() { while(1){ cout<<"hello!"<<endl; } what is the output?
+A)syntax error
+B)hello!
+C)infinite loop
+D)hello
+Q. int main() { cout<<55<<endl; } what is the output?
+A)syntax error
+B)logical error
+C)55
+D)555
+Q. what is size of int data type?
+A)4 bytes
+B)4 bits 
+C)3 bytes 
+D)3 bits 
+Q. int main(){int a=2; int b=3; cout<<(a+b)<<endl; } 
+A)program for addition
+B)program for substraction
+C)program for multiplication
+D)program for division
+Q. int main() {int x=10; int y=70; x=x+y; y=x-y; x=x-y; cout<<"x: "<<x<<endl; }
+A)70
+B)x: 70
+C)x: 50
+D)50
+Q. for(;;) while(1) while(true) are types of:
+A)infinite loops
+B)loops
+C)for loop
+D)while loop
+Q: What type of loop is represented by the syntax "for(;;)"?
+A) Infinite loop
+B) Loop
+C) For loop
+D) While loop
+Q: What type of loop is represented by the syntax "while(1)"?
+A) Infinite loop
+B) Loop
+C) For loop
+D) While loop
+Q: What type of loop is represented by the syntax "while(true)"?
+A) Infinite loop
+B) Loop
+C) For loop
+D) While loop
+Q: What is the purpose of an infinite loop?
+A) To repeat a set of statements a fixed number of times
+B) To execute a block of code only if a condition is true
+C) To create a loop with a specific number of iterations
+D) To continuously repeat a block of code indefinitely
+Q: Which type of loop allows you to iterate over a sequence of values or a range of numbers?
+A) For loop
+B) While loop
+C) Do-while loop
+D) Infinite loop
+Q. int main() { while(1){ cout<<"hello!"<<endl; } the program terminates
+A)yes
+B)no
+C) 
+D) 
+Q. int main() { int a=2; int *p=a; } is this correct?
+A)yes
+B)no
+C) 
+D) 
+Q. do{}while(condition) is this syntax correct?
+A)yes
+B)no
+C) 
+D)

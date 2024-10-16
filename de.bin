@@ -1,0 +1,50 @@
+A first-order linear differential equation can be solved using an integrating factor. 
+True
+False
+
+
+Separable differential equations can always be solved by separation of variables. 
+True
+False
+
+
+The order of a differential equation is determined by the highest derivative present in the equation. 
+True 
+False
+ 
+
+A homogeneous differential equation is one in which all terms are of the same degree. 
+True 
+False
+
+ 
+The existence and uniqueness theorem guarantees that a solution to a differential equation exists and is unique if certain conditions are met. 
+True 
+False
+
+
+Which of the following is a first-order ordinary differential equation? 
+dy/dx = 3x^2 
+d^2y/dx^2 + 2dy/dx + y = 0 
+d^3y/dx^3 + 5y^2 = 2x 
+d^2y/dx^2 + dy/dx = 6x^3
+What is the order of the differential equation: d^3y/dx^3 + 4(dy/dx)^2 = sin(x)? 
+1 
+2 
+3 
+4
+Which method is commonly used to solve separable differential equations? 
+Variation of parameters 
+Laplace transform 
+Separation of variables 
+Power series method
+Which of the following is an example of a homogeneous differential equation? 
+dy/dx + y = x^2 
+dy/dx = 3x + y 
+d^2y/dx^2 + 4y = 0 
+d^2y/dx^2 + dy/dx = 6x^3
+The general solution of a linear homogeneous differential equation of order n has how many arbitrary constants? 
+n-1 
+n 
+n+1 
+2n 

@@ -1,0 +1,50 @@
+Q: What is the determinant of a 2x2 matrix [a b; c d]?
+a) ad - bc
+b) ac - bd
+c) ab - cd
+d) bd - ac
+Q: What is the rank of a square matrix? 
+a) The number of rows
+b) The number of columns
+c) The number of non-zero elements
+d) The maximum number of linearly independent rows or columns
+Q: Which of the following is a property of invertible matrices?
+a) They have a determinant of zero
+b) They have linearly dependent rows or columns
+c) They have an inverse matrix
+d) They have a rank less than the number of rows
+Q: What is the span of a set of vectors?
+a) The number of vectors in the set
+b) The sum of the vectors in the set
+c) The set of all possible linear combinations of the vectors
+d) The magnitude of the vectors in the set
+Q: Which of the following is a characteristic of orthogonal matrices?
+a) They have a determinant of zero
+b) They preserve lengths and angles
+c) They have a rank less than the number of rows
+d) They are always singular matrices
+Q: The determinant of a square matrix is always a real number.
+A) True
+B) False
+C) 
+D) 
+Q: A system of linear equations is consistent if and only if it has a unique solution.
+A) True
+B) False
+C) 
+D) 
+Q: The rank of a matrix is always less than or equal to its number of rows.
+A) True
+B) False
+C) 
+D) 
+Q: The null space of a matrix consists of all the solutions to the homogeneous equation Ax = 0.
+A) True
+B) False
+C) 
+D) 
+Q: Eigenvalues and eigenvectors are only applicable to square matrices.
+A) True
+B) False
+C) 
+D) 
