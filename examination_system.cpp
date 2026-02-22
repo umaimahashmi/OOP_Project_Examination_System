@@ -234,7 +234,7 @@ int main(){
 }
 }
 void login::teacher_login(){
-   ifstream inputFile("instructor.csv");
+    ifstream inputFile("csvs/instructor.csv");
     if (!inputFile.is_open()) { cout << "Failed to open file!" << endl; return;}
     string line; int size=10; const int MAX_ROWS =size; // Maximum number of rows 
     int row = 0; int r=1;
@@ -279,16 +279,16 @@ void teacher::choose_task(time_class& t,quiz& quiz_to_attempt){
     }
 }
 void teacher::set_q_paper(quiz& quiz_to_attempt){ string temp; string new_temp;
-    if (this->course_name=="Programming Fundamentals"){temp="pf.bin"; new_temp="new_pf.bin";}
-    if (this->course_name=="Object Oriented Programming"){temp="oop.bin"; new_temp="new_oop.bin";}
-    if (this->course_name=="Linear Algebra"){temp="la.bin"; new_temp="new_la.bin";}
-    if (this->course_name=="discrete maths"){temp="dis.bin"; new_temp="new_dis.bin";}
-    if (this->course_name=="Differential Equations"){temp="de.bin"; new_temp="new_de.bin";}
-    if (this->course_name=="Communication and Composition"){temp="com.bin"; new_temp="new_com.bin";}
-    if (this->course_name=="OOP Lab"){temp="ooplb.bin"; new_temp="new_ooplb.bin";}
-    if (this->course_name=="Islamic Studies"){temp="isl.bin"; new_temp="new_isl.bin";}
-    if (this->course_name=="Communication and Presentation Skills"){temp="cps.bin"; new_temp="new_cps.bin";}
-    if (this->course_name=="Introduction to Information and Communication Technology"){temp="iict.bin"; new_temp="new_iict.bin";}
+    if (this->course_name=="Programming Fundamentals"){temp="bin/pf.bin"; new_temp="bin/new_pf.bin";}
+    if (this->course_name=="Object Oriented Programming"){temp="bin/oop.bin"; new_temp="bin/new_oop.bin";}
+    if (this->course_name=="Linear Algebra"){temp="bin/la.bin"; new_temp="bin/new_la.bin";}
+    if (this->course_name=="discrete maths"){temp="bin/dis.bin"; new_temp="bin/new_dis.bin";}
+    if (this->course_name=="Differential Equations"){temp="bin/de.bin"; new_temp="bin/new_de.bin";}
+    if (this->course_name=="Communication and Composition"){temp="bin/com.bin"; new_temp="bin/new_com.bin";}
+    if (this->course_name=="OOP Lab"){temp="bin/ooplb.bin"; new_temp="bin/new_ooplb.bin";}
+    if (this->course_name=="Islamic Studies"){temp="bin/isl.bin"; new_temp="bin/new_isl.bin";}
+    if (this->course_name=="Communication and Presentation Skills"){temp="bin/cps.bin"; new_temp="bin/new_cps.bin";}
+    if (this->course_name=="Introduction to Information and Communication Technology"){temp="bin/iict.bin"; new_temp="bin/new_iict.bin";}
     int choice=0;
     cout<<"1.generate quiz by question bank"<<endl;
     cout<<"2.genrate quiz by yourself"<<endl;
@@ -302,7 +302,7 @@ void teacher::set_q_paper(quiz& quiz_to_attempt){ string temp; string new_temp;
             break; 
         }
         case 2:{
-            temp="new_quiz.bin"; quiz_to_attempt.file_name=temp;
+            temp="bin/new_quiz.bin"; quiz_to_attempt.file_name=temp;
             cout<<"enter the no of questions in the quiz"<<endl; cin>>quiz_to_attempt.no_of_q; int num=quiz_to_attempt.no_of_q;
             cout<<"enter the marks of every question"<<endl;     cin>>quiz_to_attempt.marks_of_every_q;
             quiz_to_attempt.total_marks=(quiz_to_attempt.no_of_q)*(quiz_to_attempt.marks_of_every_q); 
@@ -490,7 +490,7 @@ void student::display(){
     courses.display();
 }
 void login::student_login(){
-    ifstream inputFile("student.csv");
+    ifstream inputFile("csvs/student.csv");
     if (!inputFile.is_open()) {cout << "Failed to open file!" << endl; return;}
     string line; int size=217;
     const int MAX_ROWS =size; // Maximum number of rows 
@@ -510,7 +510,7 @@ void login::student_login(){
     inputFile.close();
 }
 void course_registration:: registration(){
-    ifstream inputFile("student.csv");
+    ifstream inputFile("csvs/student.csv");
     if (!inputFile.is_open()) {cout << "Failed to open file!" << endl; return;}
     string line; int size=217;
     const int MAX_ROWS =size; // Maximum number of rows 
