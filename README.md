@@ -43,9 +43,5 @@ If you encounter missing header errors, compile with MSVC or install a MinGW dis
 
 If you move these files, update the paths in `examination_system.cpp` accordingly.
 
-## Contributing
-- Report issues or feature requests.
-- Send focused pull requests with clear descriptions.
-
 ## License
 MIT
